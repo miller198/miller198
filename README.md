@@ -11,8 +11,10 @@
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=compose&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 
-## Study
+## Experience
 
 🏛️ 한양대학교 ERICA 컴퓨터학부 졸업
 
 📱 네이버 부스트캠프 9기 안드로이드 수료
+
+🖥 Deepromeet 17th 디프만 17기 안드로이드 개발자 참여 (~2025.12)
