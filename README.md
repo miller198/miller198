@@ -44,7 +44,7 @@
   3) 라이브러리 배포 및 문서화
 
 
-### 🏃‍♂️ DoRunDoRun: 친구와 함께하는 러닝 인증 서비스 (25.08 - 25.11)
+### 🏃‍♂️ DoRunDoRun: 친구와 함께하는 인증 기반 러닝 서비스 (25.08 - 25.11)
 - 기술스택: Kotlin, Jetpack Compose, Hilt, Coroutines, Room, Paging3, Orbit MVI, Naver Map SDK, FCM, Coil 등
 - 담당역할
 1) 실시간&백그라운드 러닝 트래킹 및 드로잉 등 **러닝 기능 전체** 담당
@@ -56,7 +56,7 @@
 - Github: https://github.com/depromeet/17th-team6-android
 - 스토어: https://play.google.com/store/apps/details?id=com.dpm.sixpack
 
-### 🌍 sou.zip : 위치 기반 기념품 정보 및 공유 서비스 (25.11 - 26.01, 고도화 및 운영 중)
+### 🌍 sou.zip : 해외여행 기념품 정보 및 공유 서비스 (25.11 - 26.01, 고도화 및 운영 중)
 - 역할: 안드로이드 개발 전체 담당
 - 기술스택: Kotlin, Jetpack Compose, Hilt, Coroutines/Flow, Mapbox SDK, OAuth(Kakao/Google), Paging3, Coil 등
 - Key Tasks
