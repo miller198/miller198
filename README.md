@@ -69,3 +69,17 @@
   2) 이미지 최적화로 업로드와 UI 표시되는 사진의 크기 및 load 시간 80% 단축
 - Github: https://github.com/souzip/souzip-android
 - 스토어: https://play.google.com/store/apps/details?id=com.swyp.souzip
+
+
+### 🐕‍🦺 PawPaw: AI 기술을 활용한 실종 반려견 찾기 어플리케이션
+- 한양대학교 졸업 캡스톤 프로젝트 개발한 앱입니다.
+- 기술 스택: Kotlin, Android, Xml View, Kakao Map, EfficientNetV2, Flask, Firebase CloudFunction, Firestore 등
+- Github: https://github.com/miller198/HanyangCapston
+- 역할
+  1) (Front) 안드로이드 앱개발 및 카카오 지도 상 실시간 산책 경로 기록
+  2) (Back) Firebase CloudFunction 을 이용한 서버 로직 설계
+  3) (Back) CNN 모델 구현, 학습, AI 모델 서버 구축
+- Key Tasks
+  1) EfficientNetV2 모델 기반 견종 추정 모델 커스텀
+  2) 산책 중 표시되는 실시간 경로 드로잉 중 GPS 튀는 문제 방지
+  3) Flask 및 Firebase 이용하여 실시간 이미지 분석 결과 제공
