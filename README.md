@@ -73,7 +73,7 @@
 
 ### 🐕‍🦺 PawPaw: AI 기술을 활용한 실종 반려견 찾기 어플리케이션
 - 한양대학교 졸업 캡스톤 프로젝트 개발한 앱입니다.
-- 기술 스택: Kotlin, Android, Xml View, Kakao Map, EfficientNetV2, Flask, Firebase CloudFunction, Firestore 등
+- 기술 스택: Kotlin, Python, Java Script, Android, Xml View, Kakao Map, EfficientNetV2, Flask, Firebase CloudFunction, Firestore 등
 - Github: https://github.com/miller198/HanyangCapston
 - 역할
   1) (Front) 안드로이드 앱개발 및 카카오 지도 상 실시간 산책 경로 기록
