@@ -80,6 +80,6 @@
   2) (Back) Firebase CloudFunction 을 이용한 서버 로직 설계
   3) (Back) CNN 모델 구현, 학습, AI 모델 서버 구축
 - Key Tasks
-  1) EfficientNetV2 모델 기반 견종 추정 모델 커스텀
-  2) 산책 중 표시되는 실시간 경로 드로잉 중 GPS 튀는 문제 방지
-  3) Flask 및 Firebase 이용하여 실시간 이미지 분석 결과 제공
+  1) **EfficientNetV2 모델 기반 견종 추정 모델 커스텀**
+  2) 산책 중 표시되는 **실시간 경로 드로잉** 중 **GPS 튀는 문제 방지**
+  3) Flask 및 Firebase 이용하여 **실시간 이미지 분석 결과 제공**
