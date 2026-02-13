@@ -39,12 +39,12 @@ https://buly.kr/HHe3iQ9
 
 ### 🎧 ComposeCircleAudioVisualizer : 오디오 시각화 라이브러리
 - https://github.com/miller198/ComposeCircleAudioVisualizer
-- 기술스택:Kotlin, Jetpack Compose, Android Visualizer API, Digital Signal Processing (DSP), Gradle, JitPack
+- 기술스택: Kotlin, Compose, Android Visualizer API, Digital Signal Processing (DSP), Gradle, JitPack, Maven Central
 - 담당역할: 개발 전체
 - 주요 작업
   1) DSP 알고리즘 설계
   2) 렌더링 엔진 최적화
-  3) 라이브러리 배포 및 문서화
+  3) **라이브러리 배포** 및 문서화
 
 
 ### 🏃‍♂️ DoRunDoRun: 친구와 함께하는 인증 기반 러닝 서비스 (25.08 - 25.11)
@@ -61,7 +61,7 @@ https://buly.kr/HHe3iQ9
 
 ### 🌍 sou.zip : 해외여행 기념품 정보 및 공유 서비스 (25.11 - 26.01, 고도화 및 운영 중)
 - 역할: 안드로이드 개발 전체 담당
-- 기술스택: Kotlin, Android, Compose, MVI, Hilt, Mapbox, Retrofit, OkHttp, Coroutine, Flow, Paging, Coil, DataStore, KeyStore, Kakao/Google OAuth, Amplitude, AdMob, Firebase Crashlytics
+- 기술스택: Kotlin, Android, Compose, MVI, Hilt, Navigation3, Mapbox, Retrofit, OkHttp, Coroutine, Flow, Paging, Coil, DataStore, KeyStore, Kakao/Google OAuth, Amplitude, AdMob, Firebase Crashlytics
 - Key Tasks
   1) 서버 토큰 자동 갱신 메커니즘과 동시성 제어
   2) 최신 Navigation3 학습 및 적용
