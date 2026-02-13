@@ -28,7 +28,7 @@ https://buly.kr/HHe3iQ9
 ## Project
 
 ### 🎶 MusicRoad : 지도 기반 음악 공유 및 스트리밍 서비스(24.11 - 24.12 개발, 25.02 - 25.06 개선)
-- 기술스택: Kotlin, ExoPlayer, Jetpack Compose, Retrofit, Coil, OkHttp, Firebase, NaverMapSDK 등
+- 기술스택: Kotlin, Android, Compose, Hilt, MVVM, ExoPlayer, Visualizer, MediaSessionService, Coroutine, Flow, Retrofit, OkHttp, Coil, DataStore, SharedPreference, NaverMap, Clean Architecture, Multi Module, Build Logic Plugins, Firestore, Firebase CloudFunction, Firebase GeoFire 등
 - 담당역할
 1) ExoPlayer를 활용한 음악 **스트리밍 플레이어** 구현
 2) Raw 오디오 데이터를 가공하여 실시간 주파수 기반 **오디오 비주얼라이저** 구현
@@ -48,9 +48,9 @@ https://buly.kr/HHe3iQ9
 
 
 ### 🏃‍♂️ DoRunDoRun: 친구와 함께하는 인증 기반 러닝 서비스 (25.08 - 25.11)
-- 기술스택: Kotlin, Jetpack Compose, Hilt, Coroutines, Room, Paging3, Orbit MVI, Naver Map SDK, FCM, Coil 등
+- 기술스택: Kotlin, Android, Compose, MVI, Hilt, NaverMap(Compose Library), Navigation3, Coroutine, Flow, Retrofit, OkHttp, Paging, Coil, DataStore, Room, Android App Architecture, Build Logic Plugins, Amplitude, Admob 등
 - 담당역할
-1) 실시간&백그라운드 러닝 트래킹 및 드로잉 등 **러닝 기능 전체** 담당
+1) 실시간&백그라운드 러닝 트래킹 및 드로잉 등, **러닝 기능 전체** 담당
 2) 클린 아키텍처 & MVI 기반 베이스 아키텍처 설정
 - 주요 작업
   1) Foreground Service를 활용하여 백그라운드에서도 끊김 없는 러닝 데이터(시간, 거리, 페이스, 케이던스) 측정, 실시간 러닝 경로 드로잉 등 모든 러닝 기능
@@ -61,7 +61,7 @@ https://buly.kr/HHe3iQ9
 
 ### 🌍 sou.zip : 해외여행 기념품 정보 및 공유 서비스 (25.11 - 26.01, 고도화 및 운영 중)
 - 역할: 안드로이드 개발 전체 담당
-- 기술스택: Kotlin, Jetpack Compose, Hilt, Coroutines/Flow, Mapbox SDK, OAuth(Kakao/Google), Paging3, Coil 등
+- 기술스택: Kotlin, Android, Compose, MVI, Hilt, Mapbox, Retrofit, OkHttp, Coroutine, Flow, Paging, Coil, DataStore, KeyStore, Kakao/Google OAuth, Amplitude, AdMob, Firebase Crashlytics
 - Key Tasks
   1) 서버 토큰 자동 갱신 메커니즘과 동시성 제어
   2) 최신 Navigation3 학습 및 적용
@@ -74,9 +74,9 @@ https://buly.kr/HHe3iQ9
 - 스토어: https://play.google.com/store/apps/details?id=com.swyp.souzip
 
 
-### 🐕‍🦺 PawPaw: AI 기술을 활용한 실종 반려견 찾기 어플리케이션
+### 🐕‍🦺 PawPaw: AI 기술을 활용한 실종 반려견 찾기 어플리케이션 (22.12 - 23.05)
 - 한양대학교 졸업 캡스톤 프로젝트 개발한 앱입니다.
-- 기술 스택: Kotlin, Python, Java Script, Android, Xml View, Kakao Map, EfficientNetV2, Flask, Firebase CloudFunction, Firestore 등
+- 기술 스택: Kotlin, Java Script, Python, Android, XML View, Kakao Map SDK, EfficientNetV2, Firebase CloudFunction, Firestore  등
 - Github: https://github.com/miller198/HanyangCapston
 - 역할
   1) (Front) 안드로이드 앱개발 및 카카오 지도 상 실시간 산책 경로 기록
