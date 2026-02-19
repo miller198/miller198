@@ -19,6 +19,8 @@
 
 ## Article
 
+✏ 블로그: https://github.com/miller198
+
 📀 오디오 시각화 라이브러리 개발과정 : https://velog.io/@miller198/series/AudioVisualize
 
 ## Portfolio
