@@ -76,7 +76,6 @@ https://buly.kr/HHe3iQ9
 - 성과
   1) 앱 3기 대상 수상
   2) 이미지 최적화로 업로드와 UI 표시되는 사진의 크기 및 load 시간 80% 단축
-- Github: https://github.com/souzip/souzip-android
 - 스토어: https://play.google.com/store/apps/details?id=com.swyp.souzip
 
 
