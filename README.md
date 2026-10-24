@@ -27,10 +27,6 @@
 
 📀 오디오 시각화 라이브러리 개발과정 : https://velog.io/@miller198/series/AudioVisualize
 
-## Portfolio
-
-https://buly.kr/HHe3iQ9
-
 ## Project
 
 ### 🎶 MusicRoad : 지도 기반 음악 공유 및 스트리밍 서비스(24.11 - 24.12 개발, 25.02 - 25.06 개선)
